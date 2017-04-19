@@ -13,3 +13,5 @@ List of activities done in this project.
 
 **2017-April-19**  
 Read the document UG122: BGM111 Bluetooth Module Radio Board User's Guide, revision 3.00. This document can be found [here](http://www.silabs.com/documents/login/user-guides/ug122-brd4300a-user-guide.pdf).  
+
+Browsed the document QSG139: Bluetooth Development with Simplicity Studio, revision 0.2. This document can be found [here](http://www.silabs.com/documents/login/quick-start-guides/qsg139-bluetooth-dev-simplicity-studio.pdf).  
